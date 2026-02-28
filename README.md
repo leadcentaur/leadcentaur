@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Brenden 👋
 
-<!--
-**leadcentaur/leadcentaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 SRE, Interested in Kubernetes and Agentic Engineering
 
-Here are some ideas to get you started:
+🤖 Right now I'm focused on building Agentic Infrastructure, application release management, and secure-by-design AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Interests:
+
+    Agentic AI platforms
+    Kubernetes Infrastructure
+    Operational Security 
+    
+🤝 Open to collaborating on:
+
+    AI agents and developer platforms
+    Authentication and identity innovation
+    Enterprise-grade secure systems
+
+Brenden
