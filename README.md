@@ -2,7 +2,7 @@
 
 🚀 SRE, Interested in Kubernetes and Agentic Engineering
 
-🤖 Right now I'm focused on building Agentic Infrastructure, application release management, and secure-by-design AI infrastructure.
+Right now I'm focused on building Agentic Infrastructure, application release management, and secure-by-design AI infrastructure.
 
 🤔 Interests:
 
