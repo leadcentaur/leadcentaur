@@ -8,7 +8,7 @@ Right now I'm focused on building Agentic Infrastructure, application release ma
 
     Agentic AI platforms
     Kubernetes Infrastructure
-    Operational Security 
+    Secure by Design
     
 🤝 Open to collaborating on:
 
