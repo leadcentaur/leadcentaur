@@ -1,8 +1,8 @@
 ## Hi there, I'm Brenden 👋
 
-🚀 SRE, Interested in Kubernetes and Agentic Engineering
+🚀 SRE, Interested in Kubernetes and Go
 
-Right now I'm focused on building Agentic Infrastructure, application release management, and secure-by-design AI infrastructure.
+Right now I'm focused on building Cloud Infrastructure, application release management, and secure-by-design AI infrastructure.
 
 🤔 Interests:
 
